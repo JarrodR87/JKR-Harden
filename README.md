@@ -1,4 +1,4 @@
-# JKR-Harden
+# PSHarden
 Used to manage LGPO and Local Group Policies via PowerShell Objects
 
 
